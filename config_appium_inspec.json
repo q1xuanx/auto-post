@@ -1,0 +1,6 @@
+{
+    "platformName": "Android",
+    "appium:automationName": "UiAutomator2",
+    "appium:deviceName": "emulator-5554",
+    "appium:platformVersion": "16"
+}
